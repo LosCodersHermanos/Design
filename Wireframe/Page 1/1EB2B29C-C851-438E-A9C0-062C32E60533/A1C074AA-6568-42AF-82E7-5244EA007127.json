@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A1C074AA-6568-42AF-82E7-5244EA007127",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 280,
+    "width": 400,
+    "x": 43,
+    "y": 104
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 26,
+  "masterInfluenceEdgeMinXPadding": 16,
+  "masterInfluenceEdgeMinYPadding": 6,
+  "name": "Card Selector",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2DBA094D-E910-49C3-901A-80682510C516",
+      "overrideName": "542C20E9-E057-4EF5-9BAE-2D8D5B83B048_stringValue",
+      "value": "Disc. Uditiva"
+    }
+  ],
+  "overrides": {
+    "542C20E9-E057-4EF5-9BAE-2D8D5B83B048": "Disc. Uditiva"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BFC2DD92-D691-4817-A580-F666945D9F22",
+  "verticalSpacing": 0
+}

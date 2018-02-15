@@ -1,0 +1,90 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "EA8C5CE1-ECB5-4A0C-A719-7427B5CE664B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 76,
+    "width": 359,
+    "x": 0,
+    "y": 137
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Cells/Application/Messages Cell",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "986E3A95-A422-4AF2-9AC8-A2782B6B133C_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8FB688FC-A0C0-41A6-ACE0-CC3BA567B9F3_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7E717143-3277-4CCD-B39D-A00311609C9F_stringValue",
+      "value": "IM"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F6A2A323-846C-4632-B7BD-78EE29EB7C71_stringValue",
+      "value": "List Name"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B980A81E-7670-4378-8059-EBB2EF9563D9_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4C14C8DB-0FA0-4A3E-9F90-47B989094FB0_stringValue",
+      "value": " "
+    }
+  ],
+  "overrides": {
+    "4C14C8DB-0FA0-4A3E-9F90-47B989094FB0": " ",
+    "7E717143-3277-4CCD-B39D-A00311609C9F": "IM",
+    "8FB688FC-A0C0-41A6-ACE0-CC3BA567B9F3": {
+      "symbolID": ""
+    },
+    "986E3A95-A422-4AF2-9AC8-A2782B6B133C": {
+      "symbolID": ""
+    },
+    "B980A81E-7670-4378-8059-EBB2EF9563D9": " ",
+    "F6A2A323-846C-4632-B7BD-78EE29EB7C71": "List Name"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5609BA54-65CD-49DF-8359-63157E4FFFAD",
+  "verticalSpacing": 0
+}

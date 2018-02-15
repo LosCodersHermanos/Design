@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "A9E8829D-E3D1-4BBA-BAA1-E21781CD78A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 119,
+    "width": 285,
+    "x": 268,
+    "y": 266
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "25FEFE19-3D36-4352-8DD3-C5D174591E71"
+    },
+    {
+      "class": "text",
+      "id": "7AC06FC1-00C0-4F88-B8A9-FE047CC6BE5D"
+    }
+  ],
+  "name": "Bottone Inizia",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

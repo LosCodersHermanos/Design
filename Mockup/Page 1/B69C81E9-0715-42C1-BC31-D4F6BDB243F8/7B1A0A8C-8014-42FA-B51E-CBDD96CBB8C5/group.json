@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "7B1A0A8C-8014-42FA-B51E-CBDD96CBB8C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 455,
+    "width": 820,
+    "x": 67,
+    "y": 91
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "60C3D893-EF5E-41A9-94AB-968941E5D3EF"
+    },
+    {
+      "class": "text",
+      "id": "53F9A141-C18F-4C0D-A730-DBB6D5CABFFF"
+    },
+    {
+      "class": "text",
+      "id": "B2F531A6-2B57-47AF-91C5-8CCE5DFED54F"
+    }
+  ],
+  "name": "Schermata gioco",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

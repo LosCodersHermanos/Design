@@ -1,0 +1,96 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "7EFA474A-D0B7-4C1A-86FB-453FBF34B0A3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 768,
+    "width": 1024,
+    "x": 5900,
+    "y": 823
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "38453D53-D09E-4B07-A367-AB9A77899A23"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0CD9D7BD-9316-4AAD-80B1-0D0DAA2B7C84"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "860DDA38-CB74-4B69-9D79-85F3FD08FCB9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4B6B8732-23D8-4CCD-BAE0-E76802E0EC17"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3C85FDA5-6DE4-4728-AC79-AABB21EAF5FA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1F7068C7-891F-41B5-8BF4-1D1F2EF6F52F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "76B6E123-41EF-4D60-9937-5C3F0BB947BC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "53CE5FD3-713D-44AA-B114-41BA867061B3"
+    }
+  ],
+  "name": "Lista per Bambino X (Carte Piccole) Dopo Attività",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

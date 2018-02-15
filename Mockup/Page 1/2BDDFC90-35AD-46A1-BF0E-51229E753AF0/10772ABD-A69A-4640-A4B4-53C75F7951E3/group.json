@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "10772ABD-A69A-4640-A4B4-53C75F7951E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 119,
+    "width": 450,
+    "x": 252,
+    "y": 605
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DC0188B7-E4B2-4DFC-AF13-04055353670D"
+    },
+    {
+      "class": "text",
+      "id": "84AA3E16-093F-4D7B-AE96-6B3F4EDFDA29"
+    }
+  ],
+  "name": "Bottone Avanti",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

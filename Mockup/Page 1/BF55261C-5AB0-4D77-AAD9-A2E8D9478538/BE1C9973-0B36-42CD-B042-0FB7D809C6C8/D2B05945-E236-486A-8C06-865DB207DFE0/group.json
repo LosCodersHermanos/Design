@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "do_objectID": "D2B05945-E236-486A-8C06-865DB207DFE0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 455,
+    "width": 820,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8C8F1697-C06F-4508-809A-A92C43B38F7E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6DDAE05C-48FC-4F5E-9D12-16DDCA5C5D97"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "27721C0F-5DD6-474C-9218-7F318014215E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "05CB9B99-C841-405A-8A14-7EB92AAA577C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8B2526C5-9BD5-4877-AC66-DEA7B09ACF2C"
+    }
+  ],
+  "name": "Nuvola ",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 8,
+        "color": {
+          "_class": "color",
+          "alpha": 0.216995018115942,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

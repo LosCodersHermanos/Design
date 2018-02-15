@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "EC7926E2-8EE5-4191-B31C-A4AA37001690",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 200,
+    "width": 530,
+    "x": 495,
+    "y": 578
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FFE2BD9D-7FC7-4E79-9CBD-A60838B0F34D"
+    },
+    {
+      "class": "group",
+      "id": "FA6DC666-91D8-488F-BCE3-BABC8114419A"
+    }
+  ],
+  "name": "Collina 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

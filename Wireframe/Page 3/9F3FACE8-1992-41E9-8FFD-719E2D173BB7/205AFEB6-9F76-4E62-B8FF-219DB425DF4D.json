@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "205AFEB6-9F76-4E62-B8FF-219DB425DF4D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 359,
+    "x": 0,
+    "y": 221
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Cells/Table/Cell",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C92B2847-13C8-4099-9F7F-73841CEADCB5",
+      "overrideName": "2865428C-C0F1-4FB9-B6F2-C4BD56C9012E/D18DB6BB-00F7-4486-9289-699BE316664D_stringValue",
+      "value": "Activity 3"
+    }
+  ],
+  "overrides": {
+    "2865428C-C0F1-4FB9-B6F2-C4BD56C9012E": {
+      "D18DB6BB-00F7-4486-9289-699BE316664D": "Activity 3"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D2EDB77A-CA83-4234-8F58-2367816CB40A",
+  "verticalSpacing": 0
+}

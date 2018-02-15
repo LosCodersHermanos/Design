@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0D678164-61DC-49CE-8AD0-0BF8787C0187",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 280,
+    "width": 400,
+    "x": 43,
+    "y": 424
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 16,
+  "masterInfluenceEdgeMaxYPadding": 26,
+  "masterInfluenceEdgeMinXPadding": 16,
+  "masterInfluenceEdgeMinYPadding": 6,
+  "name": "Card Selector",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C08B2C6E-0A09-4B89-9315-B18D6AA35B2F",
+      "overrideName": "63A186FC-1BD0-493D-BC93-53BB0DDAD566_stringValue",
+      "value": "Dislalia S/Z"
+    }
+  ],
+  "overrides": {
+    "63A186FC-1BD0-493D-BC93-53BB0DDAD566": "Dislalia S/Z"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BF80E541-DFE3-44B9-9559-8D630EAA9DB2",
+  "verticalSpacing": 0
+}
